@@ -8,5 +8,5 @@ def fizzbuzz(int)
   elsif (int % 3 && int % 5) == 0
     return "Fizzbuzz"
   else
-    return 
+    return
 end
