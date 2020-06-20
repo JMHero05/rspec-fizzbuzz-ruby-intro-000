@@ -9,4 +9,5 @@ def fizzbuzz(int)
     return "Fizzbuzz"
   else
     return
+  end
 end
